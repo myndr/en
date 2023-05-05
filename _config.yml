@@ -1,0 +1,15 @@
+title: Myndr Help center
+description: Answering all your questions about Myndr, the Myndr dial and the daily use.
+theme: just-the-docs
+
+url: "https://kb.myndr.com/" # the base hostname & protocol for your site, e.g. http://example.com
+
+#twitter_username: myndr_nl
+#github_username:  myndr
+logo: "https://permalink.myndr.net/logo_hor-trns.png"
+favicon_ico: "https://permalink.myndr.net/favicon.ico"
+
+# Build settings
+
+aux_links:
+  To the Myndr website: "//www.myndr.com/"
