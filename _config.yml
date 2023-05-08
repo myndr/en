@@ -12,4 +12,5 @@ favicon_ico: "https://permalink.myndr.net/favicon.ico"
 # Build settings
 
 aux_links:
+  Nederlands: "//kb.myndr.nl/"
   To the Myndr website: "//www.myndr.com/"
